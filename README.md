@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! I’m Saad Bara, a computer science student at Al Akhawayn University with a strong passion for bridging theory and practice in emerging technologies. My work sits at the intersection of:<br>	•	⚛️ Quantum Computing – I recently developed a Quantum Variational Autoencoder (Q-VAE) for anomaly detection in network traffic using Qiskit and IBM Quantum simulators.<br>	•	🔐 Cybersecurity – I care deeply about securing digital systems, with hands-on experience in network intrusion detection, identity verification APIs, and quantum-safe cryptography.<br>		•	🎨 Front-End Development – I enjoy turning complex ideas into clean, responsive interfaces. Whether prototyping in Figma or building in React Native, I care deeply about UI/UX that feels natural and purposeful.</p>
+<p align="left">Hi! I’m Saad Bara, a computer science student at Al Akhawayn University with a strong passion for bridging theory and practice in emerging technologies. My work sits at the intersection of:<br>	•	⚛️ Quantum Computing – I recently developed a Quantum Variational Autoencoder (Q-VAE) for anomaly detection in network traffic using Qiskit and looking forward to apply it on the IBM quantum computer simulator.<br>	•	🔐 Cybersecurity – I care deeply about securing digital systems, with hands-on experience in network intrusion detection, identity verification APIs, and quantum-safe cryptography.<br>		•	🎨 Front-End Development – I enjoy turning complex ideas into clean, responsive interfaces. Whether prototyping in Figma or building in React Native, I care deeply about UI/UX that feels natural and purposeful.</p>
 
 ###
 
